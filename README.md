@@ -36,10 +36,9 @@ Use the tools you already love. Let SaleSentry handle the alerts.
 
 ## Target Audience
 
-- PC gamers with **10+ games on their Steam wishlist**
-- **Budget-conscious gamers** who wait for the right price
-- Gamers aged **18–35** across global markets
-- Users in **EN, ZH, RU, JA, FR** speaking regions
+- PC gamers who wait for the best price
+- Budget-conscious gamers with growing wishlists
+- Global audience across all regions
 
 ## How It Works
 
