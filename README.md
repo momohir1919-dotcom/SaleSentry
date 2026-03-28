@@ -70,5 +70,3 @@ Use the tools you already love. Let SaleSentry handle the alerts.
 ## License
 
 MIT
-
-Impact-Site-Verification: db8d331c-3ff9-4ce9-9cdc-7a62ce3e23fe
