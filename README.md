@@ -1,72 +1,46 @@
+
+README.md
+SaleSentry
+
+
+
 # SaleSentry 🎮
-
 > Never miss a Steam sale again. Desktop notifications for price drops.
-
-SaleSentry monitors your Steam wishlist and notifies you instantly 
-when games hit their lowest price, go on sale, or drop below your 
+SaleSentry monitors your Steam wishlist and notifies you instantly
+when games hit their lowest price, go on sale, or drop below your
 target price — right on your desktop.
-
 ## Why SaleSentry?
-
 Love using IsThereAnyDeal or SteamDB? So do we.
-SaleSentry is designed to work **alongside** your favorite price 
-tracking tools — adding **instant desktop notifications** so you 
+SaleSentry is designed to work **alongside** your favorite price
+tracking tools — adding **instant desktop notifications** so you
 never have to check your inbox again.
-
 Use the tools you already love. Let SaleSentry handle the alerts.
-
 ## Features
-
 - 🔔 **Instant desktop notifications** for price drops
 - 📉 **Historical low price tracking** via IsThereAnyDeal
-- 🛒 **Steam wishlist sync** (API key or SteamID)
+- 🛒 **Steam wishlist sync** — import your wishlist automatically
 - 🌍 **Regional pricing** — set your country, get local prices
-- 📊 **Price history graphs** for every game
-- ⏰ **Sale end notifications** — never miss a deadline
-- 💰 **Savings tracker** — see how much you've saved
+- ⏰ **Sale end alerts** — notified when a check detects a sale ending within 24h
 - 🔍 **Search & filter** your watchlist
-- 🌐 **Multi-language** — EN, ZH, RU, JA, FR and more
-
+- 🌐 **Multi-language** — EN, JA, ZH, RU, FR
 ## Notification Conditions
-
 - 📌 **Historical low** — alert when price hits all-time low
-- 📌 **Near historical low** — alert when price is close
 - 📌 **Any sale** — alert when any discount is applied
 - 📌 **Target price** — alert when price drops below your budget
-
-## Target Audience
-
-- PC gamers who wait for the best price
-- Budget-conscious gamers with growing wishlists
-- Global audience across all regions
-
+- 📌 **Discount rate** — alert when discount exceeds your threshold
+- 📌 **Sale ending** — alert when a check detects less than 24h remaining
 ## How It Works
-
 ```
-1. Connect your Steam wishlist
+1. Connect your Steam wishlist (optional)
 2. Set notification conditions per game
 3. SaleSentry runs in your system tray
-4. Get notified the moment a deal hits
+4. Get notified at the next check interval when a deal is found
 ```
-
-## Roadmap
-
-- [x] Core notification engine
-- [ ] Steam wishlist sync
-- [ ] Price history graphs
-- [ ] Multi-language support
-- [ ] Sale end notifications
-- [ ] Bundle & package detection (v2)
-
 ## Powered by
-
 - [IsThereAnyDeal API](https://isthereanydeal.com)
 - Steam Web API
-
-## Status
-
-🚧 Currently in active development
-
+## Support
+Thanks for your kindness! My partner is a stroke survivor, and your support means the world to us during this challenging time. We truly appreciate your generosity!
+[ko-fi.com/momohir1919](https://ko-fi.com/momohir1919)
 ## License
-
-MIT
+See [LICENSE](./LICENSE)
