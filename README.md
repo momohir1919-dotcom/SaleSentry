@@ -37,8 +37,10 @@ Use the tools you already love. Let SaleSentry handle the alerts.
 ```
 > ⚠️ Windows may show a SmartScreen warning on first launch. Click **"More info"** → **"Run anyway"** to proceed. This happens because the app is not code-signed.
 ## Powered by
-- [IsThereAnyDeal API](https://isthereanydeal.com)
+- [IsThereAnyDeal API](https://isthereanydeal.com) — Price data provider. Links to ITAD are not affiliate links and generate no revenue for the developer.
 - Steam Web API
+## Disclaimer
+SaleSentry is provided "as-is" with no warranty. Price data is sourced from third-party APIs and may not always be accurate or up to date. SaleSentry is not affiliated with, endorsed by, or sponsored by Valve Corporation, Steam, or IsThereAnyDeal.
 ## Support
 Thanks for your kindness! My partner is a stroke survivor, and your support means the world to us during this challenging time. We truly appreciate your generosity!
 [ko-fi.com/momohir1919](https://ko-fi.com/momohir1919)
