@@ -10,6 +10,7 @@ SaleSentry Setup 1.0.0.exe
 https://www.virustotal.com/gui/file/e9b6abfc74788e9436affbf777a7a33e3f08ca25a2fcc91185b24742ae94c0e1
 
 **[⬇️ Download Latest Release](https://github.com/momohir1919-dotcom/SaleSentry/releases/latest)**
+
 SaleSentry monitors your Steam wishlist and notifies you at the next check
 when games hit their lowest price, go on sale, or drop below your
 target price — right on your desktop.
