@@ -1,5 +1,5 @@
 # SaleSentry 🎮
-> Never miss a Steam sale again. Desktop notifications for price drops.
+Desktop notifications for price drops.
 **[⬇️ Download Latest Release](https://github.com/momohir1919-dotcom/SaleSentry/releases/latest)**
 SaleSentry monitors your Steam wishlist and notifies you instantly
 when games hit their lowest price, go on sale, or drop below your
