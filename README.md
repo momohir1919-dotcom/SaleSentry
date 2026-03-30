@@ -24,6 +24,10 @@ Use the tools you already love. Let SaleSentry handle the alerts.
 - 📌 **Target price** — alert when price drops below your budget
 - 📌 **Discount rate** — alert when discount exceeds your threshold
 - 📌 **Sale ending** — alert when a check detects less than 24h remaining
+## Download
+1. Go to **[Releases](https://github.com/momohir1919-dotcom/SaleSentry/releases/latest)**
+2. Download **`SaleSentry.Setup.x.x.x.exe`**
+3. Run the installer
 ## How It Works
 ```
 1. Connect your Steam wishlist (optional)
