@@ -1,5 +1,6 @@
 # SaleSentry 🎮
 Desktop notifications for price drops.
+
 Virus scan results (0/70):
 SaleSentry.exe(1.0.0)
 https://www.virustotal.com/gui/file/52a3c4c7d525552cc2a665cdc223719499cb0093ba19231517a2b91115a711a5/
