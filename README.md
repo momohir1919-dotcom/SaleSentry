@@ -44,4 +44,3 @@ SaleSentry is provided "as-is" with no warranty. Price data is sourced from thir
 ## Support
 Thanks for your kindness! My partner is a stroke survivor, and your support means the world to us during this challenging time. We truly appreciate your generosity!
 [ko-fi.com/momohir1919](https://ko-fi.com/momohir1919)
----
