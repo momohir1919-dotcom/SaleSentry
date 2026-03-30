@@ -2,8 +2,10 @@
 Desktop notifications for price drops.
 
 Virus scan results (0/70):
-SaleSentry.exe(1.0.0)
+
+SaleSentry.exe (1.0.0)
 https://www.virustotal.com/gui/file/52a3c4c7d525552cc2a665cdc223719499cb0093ba19231517a2b91115a711a5/
+
 SaleSentry Setup 1.0.0.exe
 https://www.virustotal.com/gui/file/e9b6abfc74788e9436affbf777a7a33e3f08ca25a2fcc91185b24742ae94c0e1
 
