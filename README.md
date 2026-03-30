@@ -5,12 +5,8 @@ SaleSentry monitors your Steam wishlist and notifies you instantly
 when games hit their lowest price, go on sale, or drop below your
 target price — right on your desktop.
 ## Why SaleSentry?
-Love using IsThereAnyDeal or SteamDB? So do we.
-SaleSentry is designed to work **alongside** your favorite price
-tracking tools — adding **instant desktop notifications** so you
-never have to check your inbox again.
-Use the tools you already love. Let SaleSentry handle the alerts.
-<img width="780" height="600" alt="screenshot" src="https://github.com/user-attachments/assets/6c0799b0-a5bf-4fd6-b3aa-71bac369a971" />
+SaleSentry watches your Steam wishlist and notifies you at the next check when a deal is detected — no browser, no email required.
+![screenshot](https://github.com/user-attachments/assets/6c0799b0-a5bf-4fd6-b3aa-71bac369a971)
 ## Features
 - 🔔 **Instant desktop notifications** for price drops
 - 📉 **Historical low price tracking** via IsThereAnyDeal
@@ -45,3 +41,4 @@ SaleSentry is provided "as-is" with no warranty. Price data is sourced from thir
 ## Support
 Thanks for your kindness! My partner is a stroke survivor, and your support means the world to us during this challenging time. We truly appreciate your generosity!
 [ko-fi.com/momohir1919](https://ko-fi.com/momohir1919)
+---
