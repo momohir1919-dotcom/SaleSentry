@@ -1,9 +1,3 @@
-
-README.md
-SaleSentry
-
-
-
 # SaleSentry 🎮
 > Never miss a Steam sale again. Desktop notifications for price drops.
 SaleSentry monitors your Steam wishlist and notifies you instantly
@@ -42,5 +36,4 @@ Use the tools you already love. Let SaleSentry handle the alerts.
 ## Support
 Thanks for your kindness! My partner is a stroke survivor, and your support means the world to us during this challenging time. We truly appreciate your generosity!
 [ko-fi.com/momohir1919](https://ko-fi.com/momohir1919)
-## License
-See [LICENSE](./LICENSE)
+---
