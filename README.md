@@ -9,8 +9,8 @@ Love using IsThereAnyDeal or SteamDB? So do we.
 SaleSentry is designed to work **alongside** your favorite price
 tracking tools — adding **instant desktop notifications** so you
 never have to check your inbox again.
-Use the tools you already love.<img width="780" height="600" alt="screenshot" src="https://github.com/user-attachments/assets/6c0799b0-a5bf-4fd6-b3aa-71bac369a971" />
- Let SaleSentry handle the alerts.
+Use the tools you already love. Let SaleSentry handle the alerts.
+<img width="780" height="600" alt="screenshot" src="https://github.com/user-attachments/assets/6c0799b0-a5bf-4fd6-b3aa-71bac369a971" />
 ## Features
 - 🔔 **Instant desktop notifications** for price drops
 - 📉 **Historical low price tracking** via IsThereAnyDeal
