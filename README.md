@@ -30,6 +30,7 @@ Use the tools you already love. Let SaleSentry handle the alerts.
 3. SaleSentry runs in your system tray
 4. Get notified at the next check interval when a deal is found
 ```
+> ⚠️ Windows may show a SmartScreen warning on first launch. Click **"More info"** → **"Run anyway"** to proceed. This happens because the app is not code-signed.
 ## Powered by
 - [IsThereAnyDeal API](https://isthereanydeal.com)
 - Steam Web API
