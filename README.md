@@ -1,15 +1,14 @@
 # SaleSentry 🎮
 Desktop notifications for price drops.
 **[⬇️ Download Latest Release](https://github.com/momohir1919-dotcom/SaleSentry/releases/latest)**
-SaleSentry monitors your Steam wishlist and notifies you instantly
+SaleSentry monitors your Steam wishlist and notifies you at the next check
 when games hit their lowest price, go on sale, or drop below your
 target price — right on your desktop.
 ## Why SaleSentry?
 SaleSentry watches your Steam wishlist and notifies you at the next check when a deal is detected — no browser, no email required.
-
 ![screenshot](https://github.com/user-attachments/assets/6c0799b0-a5bf-4fd6-b3aa-71bac369a971)
 ## Features
-- 🔔 **Instant desktop notifications** for price drops
+- 🔔 **Desktop notifications** for price drops — delivered at the next check interval
 - 📉 **Historical low price tracking** via IsThereAnyDeal
 - 🛒 **Steam wishlist sync** — import your wishlist automatically
 - 🌍 **Regional pricing** — set your country, get local prices
